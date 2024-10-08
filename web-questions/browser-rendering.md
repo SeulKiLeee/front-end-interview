@@ -8,7 +8,7 @@
 
 1. HTML을 파싱 후 DOM트리를 구성합니다.
 2. CSS를 파싱 후 CSSOM트리를 구성합니다.
-3. JavaScript를 실행합니다.
+3. JavaScript를 실행합니다. // defer:DOMContentLoaded 이벤트가 발생되기 전, 
 4. DOM과 CSSOM을 조합해 렌더트리를 구축합니다.
 5. Layout 단계로서, 뷰포트 기반으로 렌더트리의 각 노드가 가지는 정확한 위치와 크기를 계산하게 됩니다.
 6. Paint 단계로서, 계산한 위치와 크기를 기반으로 화면에 그립니다.
@@ -24,3 +24,8 @@
 
 - Critical rendering process의 준말로서, 브라우저가 `HTML,CSS,JavaScript`를 화면에 픽셀로 변화하는 일련의 프로세스를 뜻합니다.
 - CRP는 `DOM,CSSOM,렌더트리,레이아웃`이 포함됩니다.
+
+
+# TTI, TTV 를 물어볼 수 있고, 
+TTI: 하이드레이션 키워드
+TTV: SSR 
