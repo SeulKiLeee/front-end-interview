@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56712e74-9156-4c73-819b-c48d32f867fa)# Q : 주소창에 google.com을 입력하면 일어나는 일에 대해서 설명해주세요.
+Q : 주소창에 google.com을 입력하면 일어나는 일에 대해서 설명해주세요.
 
 <br />
 
