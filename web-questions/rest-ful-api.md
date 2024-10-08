@@ -7,3 +7,6 @@
 최종적으로 `RESTful API`를 통해 이해하기 쉬운 `API`를 설계 및 구축하는것이 목적입니다.
 
 - RESTful은 REST를 REST 답게 쓰기 위한 방법으로, 누군가가 공식적으로 발표한 것은 아닙니다.
+
+
+- self descriptive 
