@@ -1,4 +1,4 @@
-# Q : 주소창에 google.com을 입력하면 일어나는 일에 대해서 설명해주세요.
+![image](https://github.com/user-attachments/assets/56712e74-9156-4c73-819b-c48d32f867fa)# Q : 주소창에 google.com을 입력하면 일어나는 일에 대해서 설명해주세요.
 
 <br />
 
@@ -26,3 +26,14 @@
 3. HTTP란 뭔가요?
 
 - Hyper Text Transper Protocol의 약자로, TCP 기반 클라이언트와 서버 사이에서 이루어지는 요청/응답 프로토콜입니다.
+
+
+4. 인터넷 7 Layer
+
+![image](https://github.com/user-attachments/assets/709893fe-980d-4e72-9dcb-60b3b2a79ef9)
+
+   
+MAC ID: MAC ID(또는 MAC 주소, Media Access Control Address)는 네트워크 인터페이스 카드(NIC)에 할당된 고유한 식별자입니다. 네트워크 장치가 데이터를 전송하거나 수신할 때 사용되며, 각 장치마다 고유한 값이 할당됩니다. 이 값은 48비트의 길이를 가지며, 일반적으로 6개의 2자리 16진수로 구성되어 있습니다. 예를 들어, 00:1A:2B:3C:4D:5E와 같은 형식입니다.
+
+MAC 주소는 네트워크 내에서 장치를 식별하는 데 사용되며, 특히 로컬 네트워크(LAN)에서 중요합니다. IP 주소와 달리 MAC 주소는 변경할 수 없으며, 네트워크 장치가 제조될 때 할당됩니다. 네트워크 스위치나 라우터와 같은 장비는 MAC 주소를 사용하여 데이터 패킷을 올바른 장치로 전달합니다.
+
